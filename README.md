@@ -1,4 +1,6 @@
 # Evaly
 ### a E-commerce Angular App
-![Screenshot 2021-09-28 150714](https://user-images.githubusercontent.com/65096534/135058198-572fa76e-2511-444c-81ec-723330861e7e.png)
-![Screenshot 2021-09-28 150734](https://user-images.githubusercontent.com/65096534/135058207-b9988aa5-7b39-4ad8-ac6f-016247741e3c.png)
+
+![Screenshot 2021-09-28 150734](https://user-images.githubusercontent.com/65096534/135059000-47d39f3a-0629-411e-af37-9d7abdf21428.png)
+![Screenshot 2021-09-28 151034](https://user-images.githubusercontent.com/65096534/135059010-67e234c8-dbdb-457f-b7a3-1381ad9077d0.png)
+![Screenshot 2021-09-28 151133](https://user-images.githubusercontent.com/65096534/135059047-f228f42f-1f84-4c9d-a139-6c3882c9356b.png)
