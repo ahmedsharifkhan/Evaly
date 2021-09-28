@@ -1,6 +1,6 @@
 # Evaly
 ### a E-commerce Angular App
-#### Api I am using is a fake one 
+#### Api I am using is a fake one its generate dummy product for may app
 
 
 ![Screenshot 2021-09-28 151034](https://user-images.githubusercontent.com/65096534/135059010-67e234c8-dbdb-457f-b7a3-1381ad9077d0.png)
