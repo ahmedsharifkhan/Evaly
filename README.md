@@ -1,3 +1,4 @@
+![Screenshot 2021-09-28 151703](https://user-images.githubusercontent.com/65096534/135059674-b62bf286-f373-4707-86af-b530b2e83a09.png)
 # Evaly
 ### a E-commerce Angular App
 #### Api I am using is a fake one 
